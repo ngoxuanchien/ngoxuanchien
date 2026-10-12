@@ -1,8 +1,8 @@
 ## Hi, I'm Ngô Xuân Chiến 👋
 
-Backend developer working with **Java / Spring Boot** and **Go**. I also build native **macOS** apps in Swift, and the occasional full-stack web app.
+Backend developer building microservices with **Java / Spring Boot** and **Go**, using **Kafka**, **gRPC**, **PostgreSQL** and **Redis**. I also build native **macOS** apps in Swift, and the occasional full-stack web app.
 
-**Tech:** Java · Spring Boot · Go · gRPC · Kafka · PostgreSQL · Docker · Swift / SwiftUI · TypeScript
+**Tech:** Java · Spring Boot · Go · gRPC · Kafka · PostgreSQL · Redis · Docker · Swift / SwiftUI · TypeScript
 
 ### Projects
 
