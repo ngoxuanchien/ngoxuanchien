@@ -1,6 +1,6 @@
 ## Hi, I'm Ngô Xuân Chiến 👋
 
-Backend developer building microservices with **Java / Spring Boot** and **Go**, using **Kafka**, **gRPC**, **PostgreSQL** and **Redis**. I also build native **macOS** apps in Swift, and the occasional full-stack web app.
+Backend Software Engineer at **HDBank**, building term deposit products for a core banking modernization on Thought Machine Vault Core. Outside work I build microservices with **Java / Spring Boot** and **Go**, using **Kafka**, **gRPC**, **PostgreSQL** and **Redis**. I also build native **macOS** apps in Swift, and the occasional full-stack web app.
 
 **Tech:** Java · Spring Boot · Go · gRPC · Kafka · PostgreSQL · Redis · Docker · Swift / SwiftUI · TypeScript
 
@@ -14,4 +14,4 @@ Backend developer building microservices with **Java / Spring Boot** and **Go**,
 | [**Timepaper**](https://github.com/ngoxuanchien/Timepaper) | Menu-bar app that draws your weekly timetable and calendar events onto the desktop wallpaper | SwiftUI, AppKit |
 | [**quick-split**](https://github.com/ngoxuanchien/quick-split) | Splits group expenses and works out the fewest transfers needed to settle up | TypeScript, Postgres |
 
-<!-- Contact: add LinkedIn / email here if you want them public -->
+**Links:** [Portfolio](https://ngoxuanchien.github.io) · [LinkedIn](https://www.linkedin.com/in/chien-ngo-xuan-513b2817b/)
